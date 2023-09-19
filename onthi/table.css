@@ -1,0 +1,32 @@
+<style>
+table{
+    border: 5px solid;
+    border-spacing: 5px;
+  }
+  th,td{
+    border: 1px solid;
+    
+  }
+  th{
+    text-align: center;
+    width: 60px;
+  }
+  td{
+    text-align: center;
+  }
+  #canchinh{
+    width: 100px;
+  }
+  #chinh5{
+    text-align: left;
+  }    
+  #chinhLT{
+    width:150cm;
+  } 
+  #chinhTH{
+    width: auto;
+  }
+  #chinh_so_tiet{
+    width: 200px;
+  }
+</style>
